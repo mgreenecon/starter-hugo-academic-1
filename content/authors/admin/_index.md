@@ -1,50 +1,53 @@
 ---
 # Display name
-title: 吳健雄
+title: Michael A. R. Green
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michael
+last_name: Green
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Economics DPhil Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Oxford Department of Economics
+    url: https://www.economics.ox.ac.uk/
+ - name: The World Bank
+    url: https://www.worldbank.org/en/home
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Interested in the intersection of economic development and finance, particularly in relation to payment systems, digital innovation, climate, and international economics
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Economics Development
+  - International Economics and Finance
+  - Digital Innovation and Payment Systems
+  - Climate Policy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: DPhil in Economics
+      institution: University of Oxford
+      year: 2026
+    - course: MSc in Economics
+      institution: UCL
+      year: 2021
+    - course: BA in Philosophy, Politics, and Economics
+      institution: University of Oxford
+      year: 2018
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -120,5 +123,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Economics DPhil Candidate at the University of Oxford. My research interests include the intersection of economic development and finance, particularly in relation to payment systems, digital innovation, climate, and international economics.
+
+Disclaimer: All views expressed on this site are my own and do not necessarily reflect the position of any institutions with which I am affiliated.
 {style="text-align: justify;"}
